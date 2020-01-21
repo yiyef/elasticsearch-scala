@@ -1,2 +1,2 @@
 # elasticsearch-scala
-elasticsearch scala client
+elasticsearch scala client test
